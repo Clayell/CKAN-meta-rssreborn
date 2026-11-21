@@ -1,6 +1,6 @@
 identifier = "Sol-VolumetricAurora"
 name = "Sol-VolumetricAurora"
-abstract = "Volumetric Aurora configs for Sol"
+abstract = "Volumetric Aurora for Sol"
 tags = ["config", "planet-pack"]
 license = "CC-BY-NC 4.0"
 authors = ["rbeap"]
