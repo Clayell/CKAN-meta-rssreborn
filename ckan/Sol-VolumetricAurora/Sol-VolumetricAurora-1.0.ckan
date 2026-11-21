@@ -14,6 +14,7 @@
     "homepage": "https://github.com/rbeap/Sol-VolumetricAurora",
     "repository": "https://github.com/rbeap/Sol-VolumetricAurora",
     "bugtracker": "https://github.com/rbeap/Sol-VolumetricAurora/issues",
+    "manual": "https://github.com/rbeap/Sol-VolumetricAurora/wiki"
   },
   "tags": [
     "config",
@@ -38,6 +39,6 @@
   },
   "download_content_type": "application/zip",
   "install_size": 18449209,
-  "release_date": "2026-10-24T09:17:27Z",
-  "x_generated_by": "Clayel :D"
+  "release_date": "2026-11-20T11:09:43Z",
+  "x_generated_by": "rkan/0.3.6"
 }
