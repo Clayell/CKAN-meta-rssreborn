@@ -1,0 +1,43 @@
+{
+  "spec_version": "v1.34",
+  "identifier": "Sol-VolumetricAurora",
+  "name": "Sol-VolumetricAurora",
+  "abstract": "Volumetric Aurora for Sol",
+  "author": [
+    "rbeap"
+  ],
+  "version": "1.0",
+  "ksp_version": "1.12",
+  "license": "CC-BY-NC 4.0",
+  "release_status": "stable",
+  "resources": {
+    "homepage": "https://github.com/rbeap/Sol-VolumetricAurora",
+    "repository": "https://github.com/rbeap/Sol-VolumetricAurora",
+    "bugtracker": "https://github.com/rbeap/Sol-VolumetricAurora/issues",
+  },
+  "tags": [
+    "config",
+    "planet-pack"
+  ],
+  "depends": [
+    {
+      "name": "Sol-Configs"
+    }
+  ],
+  "install": [
+    {
+      "file": "Sol-Addons",
+      "install_to": "GameData"
+    }
+  ],
+  "download": "https://github.com/rbeap/Sol-VolumetricAurora/releases/download/1.0/Sol-Addons.zip",
+  "download_size": 2271167,
+  "download_hash": {
+    "sha1": "9DC9F9515B5D4B6F1CB8D05113F732CF19D9527C",
+    "sha256": "0D8EF57D277CAE86059734C3D4D19E58D6137863CF450CD64C03D4045AD30718"
+  },
+  "download_content_type": "application/zip",
+  "install_size": 18449209,
+  "release_date": "2026-10-24T09:17:27Z",
+  "x_generated_by": "Clayel :D"
+}
